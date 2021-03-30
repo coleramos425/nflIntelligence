@@ -13,4 +13,19 @@ I used a number of tools from CSCI 182 (Data Science) and CSCI 183 (Web & Data C
 
 ## My Study
 
+![introduction](https://github.com/coleramos425/nflIntelligence/blob/master/readmeAssets/asset-1.png)
 
+### Methodology
+![methodology](https://github.com/coleramos425/nflIntelligence/blob/master/readmeAssets/asset-2.png)
+
+### Structure
+![structure](https://github.com/coleramos425/nflIntelligence/blob/master/readmeAssets/asset-3.png)
+
+### Example
+![example](https://github.com/coleramos425/nflIntelligence/blob/master/readmeAssets/asset-4.png)
+
+### Results 
+![results](https://github.com/coleramos425/nflIntelligence/blob/master/readmeAssets/asset-5.png)
+
+### Conclusion
+![conclusion](https://github.com/coleramos425/nflIntelligence/blob/master/readmeAssets/asset-6.png)
